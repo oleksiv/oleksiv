@@ -1,15 +1,24 @@
 # Sviatoslav Oleksiv
 
-**Lead AI product engineer.** Production AI SaaS, agents and media pipelines. React, Node, AWS. Krakow, Poland.
+Lead AI product engineer: production AI SaaS, agents and media pipelines. React, Node, AWS.
 
-- Lead engineer of a live AI SaaS for three years: 5,300 commits. AI image and video pipelines, server-side rendering on AWS Lambda, durable workflows, multi-tenant CRM.
-- Built and run a paid product solo: 211 paying customers in October 2026.
-- Thirteen years in production software.
-- Upwork: 100% job success across 18 contracts, 3,658 hours, Top Rated Plus. Longest engagement 1,300 hours and still running.
+I take AI-enabled SaaS from prototype to dependable revenue: multi-tenant architecture, billing, AI workflows that hold up in production. I own the whole product.
+
+## Track record
+
+- 13 years in production software.
+- Three years as lead engineer of a live AI SaaS that turns photos into AI-generated images and videos, with server-side video rendering on AWS Lambda and a multi-tenant CRM. 5,300+ commits on that codebase.
+- A solo paid product with 211 paying customers in October 2026: AI image processing with Stripe pay-per-result.
+- Personalized sales videos at scale: one command renders a per-prospect MP4 with an LLM-written script and generated voices.
+- Upwork: 100% Job Success across 18 contracts and 3,658 hours, Top Rated Plus, longest engagement 1,300+ hours.
 - Stack Overflow answers reached 856,000 people. A blog I built and run gets 100,000 monthly visitors.
 
-**Stack.** TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, Supabase, AWS, Vercel, Azure, Stripe, Playwright, Remotion, Replicate, OpenAI, Anthropic, Gemini, ElevenLabs.
+## Links
 
-**Method.** Tests first, rules in the repo, checks that fail the build. Notes: [durable AI workflows](https://oleksiv.com/notes/durable-ai-workflows), [fallback to input](https://oleksiv.com/notes/fallback-to-input), [rules for coding agents](https://oleksiv.com/notes/rules-for-coding-agents).
-
-[oleksiv.com](https://oleksiv.com) · sviatoslav.oleksiv@gmail.com · [Book a call](https://calendar.app.google/t2THq2pPfe2txZds8) · [LinkedIn](https://www.linkedin.com/in/oleksiv) · [Upwork](https://www.upwork.com/freelancers/oleksiv) · [CV](https://oleksiv.com/cv.pdf)
+- [oleksiv.com](https://oleksiv.com), with notes on how I work
+- [CV](https://oleksiv.com/cv.pdf)
+- [Book a call](https://calendar.app.google/t2THq2pPfe2txZds8)
+- [Email](mailto:sviatoslav.oleksiv@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/oleksiv)
+- [Upwork](https://www.upwork.com/freelancers/oleksiv)
+- [Stack Overflow](https://stackoverflow.com/users/4360292/sviatoslav-oleksiv)
