@@ -2,7 +2,7 @@
 
 **Lead AI product engineer.** Production AI SaaS, agents and media pipelines. React, Node, AWS. Krakow, Poland.
 
-- Lead engineer of a live AI SaaS for three years: 5,300 commits, about seven times the next contributor. AI image and video pipelines, server-side rendering on AWS Lambda, durable workflows, multi-tenant CRM.
+- Lead engineer of a live AI SaaS for three years: 5,300 commits. AI image and video pipelines, server-side rendering on AWS Lambda, durable workflows, multi-tenant CRM.
 - Built and run a paid product solo: 211 paying customers in October 2026.
 - Thirteen years in production software.
 - Upwork: 100% job success across 18 contracts, 3,658 hours, Top Rated Plus. Longest engagement 1,300 hours and still running.
